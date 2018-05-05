@@ -8,6 +8,17 @@ Installation
 
 [Github](https://github.com/eight04/twitter-modal-full-width/raw/master/twitter-modal-full-width.user.css)
 
+Demo
+----
+
+Before:
+
+![https://i.imgur.com/voZAhFY.png](https://i.imgur.com/voZAhFY.png)
+
+After:
+
+![https://i.imgur.com/78XMVIM.png](https://i.imgur.com/78XMVIM.png)
+
 Changelog
 ---------
 
