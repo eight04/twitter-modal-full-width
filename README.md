@@ -11,6 +11,11 @@ Installation
 Changelog
 ---------
 
+* 0.1.1 (May 6, 2018)
+
+  - Fix: width/height is not overrided.
+  - Add: remove border-radius.
+
 * 0.1.0 (May 5, 2018)
 
   - Migrate from USO to usercss.
